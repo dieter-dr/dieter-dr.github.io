@@ -7,3 +7,5 @@ Homer Simpsons Namen vergisst er oft.
 * rachsuechtig
 * extrem duenn
 * boesartig
+Wie Monty sagt:
+> Ausgezeichnet
